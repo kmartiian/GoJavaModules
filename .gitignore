@@ -16,6 +16,8 @@
 .idea/
 /out/
 
+*.iml
+
 # File-based project format:
 *.iws
 
